@@ -103,3 +103,7 @@ The `Dockerfile` builds the React app, installs Icarus Verilog and runs the Node
 4. After the build finishes, open the `https://<name>.onrender.com` link.
 
 Note: free services sleep after ~15 minutes of no use; the first visit then takes about a minute to wake up.
+
+## Learning notes
+
+New to Verilog or FSMs? Start with [docs/learn](docs/learn/README.md).

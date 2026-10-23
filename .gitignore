@@ -1,0 +1,5 @@
+node_modules/
+dist/
+*.vcd
+verilog/tb
+.DS_Store

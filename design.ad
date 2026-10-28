@@ -1,0 +1,15 @@
+{
+  "format": "vik-veriflow.arch-design",
+  "schemaVersion": 2,
+  "module": "design_design",
+  "ports": [],
+  "instances": [],
+  "logic": [],
+  "connections": [],
+  "interfacePorts": [],
+  "interfaceOverrides": {},
+  "interfaceConnections": [],
+  "defaults": {},
+  "export": {},
+  "presentation": {}
+}

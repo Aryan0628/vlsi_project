@@ -3,3 +3,5 @@ dist/
 *.vcd
 verilog/tb
 .DS_Store
+outputs
+presentation
